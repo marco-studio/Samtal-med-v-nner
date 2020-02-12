@@ -16,12 +16,11 @@ const Newsletter = () => {
   return (
     <>
       <div className=" text-center text-xl font-medium text-gray-900 md:font-semibol md:text-3xl mt-16 lgx:mt-24 ">
-        Never Miss a Thing
+        Missa aldrig något
       </div>
       <div className="mt-6 mb-6 text-gray-700 leading-relaxed md:text-xl">
-        Please sign up to our mailing list to receive latest news on everything
-        OTB direct to your email and get exclusive access to content, giveaways,
-        free tickets to live shows and more!
+        Registrera dig på vår e-postlista för att få de senaste nyheterna och
+        uppdateringarna!
       </div>
 
       <div>

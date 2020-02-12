@@ -1,29 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Over The Bridge`,
-    description: `Hey, meet Bilal, Kwaku, Patrick &amp; Tom. 4 Black &amp; Mixed-Race guys who became friends whilst studying at Cambridge University. Join us as we talk about life before, during and well - after 'The Bridge'. Expect chats about life, and our own experiences.
-    email: otbpodcastuk@gmail.com
-    Twitter: @otbpodcastuk
-    Cast: 
-    Kwaku: @KwakuDapaah_
-    Patrick: @CariocoLondrino
-    Bilal: @Tweetsbybilal
-    Tom: @TomTheEconomist`,
-    author: `Kwaku, Patrick, Bilal & Tom`,
-    twitter: `https://twitter.com/otbpodcastuk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
-    instagram: `https://www.instagram.com/otbpodcastuk/`,
+    title: `Samtal med vänner`,
+    description: `Litteraturpodden Samtal med vänner görs av Hanna Ylöstalo och Kaneli Johansson i samarbete med HBL.`,
+    author: `Hanna Ylöstalo, Kaneli Johansson`,
+    twitter: `https://www.twitter.com/samtalmedvanner/`,
+    instagram: `https://www.instagram.com/samtalmedvanner/`,
     facebook: ``,
     youtube: ``,
-    apple: `https://podcasts.apple.com/podcast/id1364395842?ct=podlink&mt=2`,
+    apple: `https://podcasts.apple.com/us/podcast/feed/id1462401906?at=11lo6V&ct=podnews_podcast`,
     stitcher: ``,
-    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDA3NTYwNzY0L3NvdW5kcy5yc3M=`,
-    pocket: `https://pca.st/itunes/1364395842`,
-    spotify: `https://open.spotify.com/show/0Lo2a3hwV0nxymHUj2lNIk`,
-    overcast: `https://overcast.fm/itunes1364395842`,
-    castbox: `https://soundcloud.com/overthebridgeuk`,
-    castro: `https://castro.fm/itunes/1364395842`,
-    podbean: `https://www.podbean.com/podcast-detail/g9v5c-68ac3/Over-The-Bridge-Podcast`,
-    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A407560764%2Fsounds.rss`
+    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjMwMzM5Njc4L3NvdW5kcy5yc3M=`,
+    pocket: `http://pca.st/itunes/1462401906`,
+    spotify: `https://open.spotify.com/show/6RzddqZYmGgIUu7amwPzvS`,
+    overcast: `https://overcast.fm/itunes1462401906`,
+    castbox: `https://soundcloud.com/samtalmedvanner`,
+    castro: `https://castro.fm/itunes/`,
+    podbean: ``,
+    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A630339678%2Fsounds.rss`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -59,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `http://feeds.soundcloud.com/users/soundcloud:users:630339678/sounds.rss`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
